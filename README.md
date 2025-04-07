@@ -6,9 +6,9 @@ A comprehensive tool for checking IP addresses against multiple DNS blacklists t
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ip-blacklist-checker?style=social)](https://github.com/yourusername/ip-blacklist-checker/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/ip-blacklist-checker)](https://github.com/yourusername/ip-blacklist-checker/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/ip-blacklist-checker)](https://github.com/yourusername/ip-blacklist-checker/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/fredycibersec/ip-blacklist-checker?style=social)](https://github.com/fredycibersec/ip-blacklist-checker/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/fredycibersec/ip-blacklist-checker)](https://github.com/fredycibersec/ip-blacklist-checker/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fredycibersec/ip-blacklist-checker)](https://github.com/fredycibersec/ip-blacklist-checker/pulls)
 
 </div>
 
